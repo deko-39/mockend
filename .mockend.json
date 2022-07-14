@@ -1,5 +1,5 @@
 {
-  "User": { "name": "123" },
+  "User": { "name": { "string": "aaf" } },
   "Post": {},
   "Comment": {},
   "Person": {},
